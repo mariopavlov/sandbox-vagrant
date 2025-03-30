@@ -1,0 +1,2 @@
+# sandbox-vagrant
+Vagrant Configurations
